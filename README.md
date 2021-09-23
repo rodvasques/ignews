@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Icons made by Dave Gandy" src="https://cdn-icons-png.flaticon.com/512/2965/2965851.png" height="124" width="124">
+    <img alt="Icons made by Freepik" src="https://cdn-icons-png.flaticon.com/512/2965/2965851.png" height="124" width="124">
     <br>
     Ig News
 </h1>
