@@ -39,6 +39,8 @@ This project was developed with the following technologies:
 - [Fauna](https://fauna.com/)
 - [Prismic](https://prismic.io/)
 - [Next](https://next-auth.js.org/)
+- [Stripe](https://stripe.com/br)
+- [Sass](https://sass-lang.com/)
 - [VS Code](https://code.visualstudio.com/) 
 
 
