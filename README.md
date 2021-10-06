@@ -7,6 +7,20 @@
 
 This is a ReactJS application developed during [Rocketseat Bootcamp](https://rocketseat.com.br/bootcamp) to allow users to access a website with news for a fee. User access control is done through interaction on the website [Fauna](https://fauna.com/). Fauna authorizes access to news if the user has an active account.
 
+## :star: Functionalities
+
+- OAuth authentication with GitHub
+- Stripe integration
+- Fauna DB
+- Server Side Render SSG
+- Static Site Generation SSG
+
+<p align="center">
+    <img alt="Demo" src="https://media.giphy.com/media/vgUV8AKceg3a6MeRbl/giphy.gif">
+</p>
+
+
+
 ## :rocket: Installation
 
 Clone the repository
